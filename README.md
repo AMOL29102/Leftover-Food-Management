@@ -1,6 +1,6 @@
 # RescueBites - Food Distribution Platform
 
-![Project Image](https://socialify.git.ci/ShounakM04/RescueBites/image?language=1&amp;name=1&amp;owner=1&amp;pattern=Charlie+Brown&amp;stargazers=1&amp;theme=Dark)
+<!-- ![Project Image](https://socialify.git.ci/ShounakM04/RescueBites/image?language=1&amp;name=1&amp;owner=1&amp;pattern=Charlie+Brown&amp;stargazers=1&amp;theme=Dark) -->
 
 **RescueBites** is a sustainability-focused platform that bridges the gap between food surplus and food scarcity. It enables restaurants, food outlets, and other food providers to list their unsold food at the end of the day, making it accessible to individuals, NGOs, or organizations working to feed the underprivileged. The platform aims to address the growing issue of food waste by connecting those with surplus food to those in need. By fostering a sense of community and reducing food waste, RescueBites contributes to a healthier, more sustainable planet. The goal is not only to save food but also to promote social responsibility and sustainability in the food industry.
 
@@ -34,7 +34,7 @@ Follow these steps to set up the project locally and start contributing to Rescu
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/ShounakM04/rescuebites.git
+    git clone https://github.com/AMOL29102/Leftover-Food-Management
     ```
 
 2. **Install Dependencies**: Run the following command to install the required Node.js packages:
